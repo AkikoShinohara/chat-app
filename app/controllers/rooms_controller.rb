@@ -27,3 +27,4 @@ class RoomsController < ApplicationController
   end
 
 end
+
